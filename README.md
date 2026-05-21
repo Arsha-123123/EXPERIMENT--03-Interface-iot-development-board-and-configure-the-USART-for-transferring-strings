@@ -1,6 +1,6 @@
 # EXPERIMENT--03-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 
-**DATE:** 12-05-2026
+**DATE:** 21-05-2026
 
 **NAME:** Arsha Jith S J 
 
@@ -212,11 +212,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of Serial port utility   :
+<img width="1600" height="865" alt="exp 3 iot" src="https://github.com/user-attachments/assets/69243f3c-a4ba-4277-92ad-2379eb6391c3" />
 
-<img width="1919" height="1162" alt="image" src="https://github.com/user-attachments/assets/974fb6ae-4c2e-45bc-bb9e-fe23279b873b" />
 
- 
- 
  
  
 ## Result :
